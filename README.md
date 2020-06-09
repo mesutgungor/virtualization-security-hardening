@@ -7,3 +7,5 @@ VMWARE security related bookmarks
 # VMware Security Community Forum  - https://communities.vmware.com/community/vmtn/security
 # VMware Security Advisories  - http://www.vmware.com/security/advisories.html
 # DoD Security Technical Implementation Guide(STIG) ESXi VIB  - https://labs.vmware.com/flings/dod-security-technical-implementation-guide-stig-esxi-vib
+Hyper-V security related bookmarks
+# Plan for Hyper-V security in Windows Server - https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/plan/plan-hyper-v-security-in-windows-server
